@@ -1,0 +1,93 @@
+header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  background: lightgrey;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  height: 100px
+}
+
+.logo {
+  height: 90px;
+  width: auto;
+  border-radius: 30px;
+  margin-left: 30px;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  gap: 20px;
+  padding-right: 20px;
+}
+
+a {
+  color: black
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-image: url("images/pexels-polina-tankilevitch-4443492.jpg") ;
+  background-position: center center;
+  color: white
+}
+
+button {
+  padding: 20px;
+  border-radius: 30px
+}
+
+button:hover {
+  color: white;
+  background: black;
+}
+
+.about {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background: lightgrey;
+  margin-bottom: 20px;
+}
+
+.abouti {
+  height: 100px;
+}
+
+.juice {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+h1 {
+  align-items: center
+}
+
+.menu {
+  display: grid;
+  grid-template-columns: repeat(4, 2fr);
+  gap: 20px;
+}
+
+.contact {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+form {
+  display: grid;
+}
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
