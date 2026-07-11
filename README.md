@@ -1,0 +1,1 @@
+This is a project I worked on to enhance my acessibilty skills and work on responsive design. I learned a lot and will continue to sharpen my skills. Viewing this project is easy, just click the link! This is a basic design for a fresh juice business website.
